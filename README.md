@@ -1,1 +1,1 @@
-SimonIFSE
+Proyecto para que una BeagleBone Black ejecute el comportamiento del típico juego Simón. Está hecho en C++.
